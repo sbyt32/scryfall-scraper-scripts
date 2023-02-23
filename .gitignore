@@ -1,4 +1,5 @@
 compress copy.py
+playground.py
 *.pyc
 # bulk paths
 oracle_cards/
