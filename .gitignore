@@ -1,0 +1,12 @@
+compress copy.py
+*.pyc
+# bulk paths
+oracle_cards/
+unique_artwork/
+default_cards/
+all_cards/
+rulings/
+
+# output
+*.json
+*.gz
