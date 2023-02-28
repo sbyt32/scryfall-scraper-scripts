@@ -11,5 +11,5 @@ repos:
     hooks:
     -   id: black
         args:
-            - src/
+            - scryfallscraper/
             - tests/
