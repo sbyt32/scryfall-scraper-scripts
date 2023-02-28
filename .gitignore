@@ -1,4 +1,3 @@
-compress copy.py
 playground.py
 *.pyc
 # bulk paths
@@ -11,3 +10,5 @@ rulings/
 # output
 *.json
 *.gz
+*.egg-info/
+dist/
