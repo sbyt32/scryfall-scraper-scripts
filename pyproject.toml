@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "scryfallscraper"
+version = "0.0.3"
+description = "A way to scrape the Scryfall API without much worry."
+readme = "README.md"
+dependencies = [
+    "requests"
+]
+
+[project.urls]
