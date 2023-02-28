@@ -3,11 +3,11 @@ requires = ["setuptools"]
 
 [project]
 name = "scryfallscraper"
-version = "0.0.3"
+version = "0.0.3.2"
 description = "A way to scrape the Scryfall API without much worry."
 readme = "README.md"
 dependencies = [
     "requests"
 ]
-
 [project.urls]
+Source = "https://github.com/sbyt32/scryfall-scraper-scripts"

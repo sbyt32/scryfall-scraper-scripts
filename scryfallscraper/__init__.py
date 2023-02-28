@@ -5,12 +5,12 @@ bulk_scraping: Scrape from Scryfall's large bulk data.
 sets: Scrape set metadata.
 """
 
-from importlib.metadata import version
+# from importlib.metadata import version
 
-try:
-    __version__ = version("scryfallscraper")
-except:
-    __version__ = "UNKNOWN"
+# try:
+#     __version__ = version("scryfallscraper")
+# except:
+#     __version__ = "UNKNOWN"
 
 
 import traceback

@@ -3,7 +3,7 @@ import os
 import datetime
 import traceback
 from typing import Union, Optional
-from scryfallscraper import util
+from scryfallscraper.util import util
 
 
 class BulkScraper:

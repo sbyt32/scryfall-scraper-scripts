@@ -2,7 +2,7 @@ import json
 import os
 import datetime
 from typing import Union, Optional
-from scryfallscraper import util
+from scryfallscraper.util import util
 
 
 class Scraper:
